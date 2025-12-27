@@ -24,7 +24,7 @@ To use: Create a public repo named EXACTLY "RoshanPanda" (e.g., github.com/Rosha
 * 🧠 I’m learning **Docker, Kubernetes, and Cloud Deployment**
 * 🤝 I’m looking to collaborate on **MERN stack projects**
 * 💬 Ask me about **JavaScript, Python, Backend Development**
-* 📫 How to reach me: **[roshanpanda.dev@gmail.com](mailto:roshanpanda.dev@gmail.com)**
+* 📫 How to reach me: **[roshanpanda.dev@gmail.com](mailto:pandaroshan204@gmail.com)**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I can debug faster with coffee in hand ☕**
 
